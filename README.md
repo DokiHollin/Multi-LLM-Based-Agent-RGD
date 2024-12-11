@@ -27,6 +27,11 @@ DATASET: humaneval/mbpp
 
 ### Other Information
 The memoy insight will be stored in the pool.jsonl file, all the outcome that passed both visible and hidden testcases will be recorded
+## Our refinement procedure:
+![image](https://github.com/user-attachments/assets/2b14d7a9-a2f5-447d-bb6c-c5de29d692a6)
+
+## Token Usage & Convergence:
+![image](https://github.com/user-attachments/assets/40b51993-f4d4-422d-b047-5316c599ae89)
 
 ### Our's Results
 Due to the significant randomness in API calls, the accuracy varies greatly with each run. Therefore, we have placed the results from the paper in the results folder. The datasets for APPS and ET versions are not compatible in this version, but they will be adapted in the future. However, the experimental results from the paper are provided in the results folder.
