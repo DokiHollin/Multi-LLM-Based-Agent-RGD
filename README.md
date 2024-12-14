@@ -34,7 +34,7 @@ Due to the significant randomness in API calls, the accuracy varies greatly with
 
 ## Token Consumption & Convergence:
 ![image](https://github.com/user-attachments/assets/09bbae9b-259f-4b5a-af5b-1ad34c40a0ef)
-![image](https://github.com/user-attachments/assets/c43656c9-92aa-4b57-ba45-b7b246cb9ead)
+![converge](https://github.com/user-attachments/assets/6aa38e44-660f-47b2-83c5-5fa45da2c812)
 
 ## Other Models:
 ![image](https://github.com/user-attachments/assets/3e75af43-b5b2-4217-9ecf-cb5966d9fc5f)
